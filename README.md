@@ -5,8 +5,8 @@ Use the demo.html to see how it work. This version requires jQuery but can easil
 
 How to use ?
 
-<div>
-	<img src="path/to/your/picture" data-speed="(int | speed factor)" class="parallax">
-</div>
+div>
+	img src="path/to/your/picture" data-speed="(int | speed factor)" class="parallax">
+/div>
 
 The parallax class will be processed at page load and at scroll.
