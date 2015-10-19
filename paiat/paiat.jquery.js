@@ -2,7 +2,7 @@
 
 $(document).ready(function(){
   $(window).on('scroll load', function(){
-    $('.parallax').each(function(){
+    $('.paiat').each(function(){
       var c = $(this);
       var o = c.parent('div').offset();
       var h = c.parent('div').height();
